@@ -1,2 +1,1 @@
-a = "Best School"
-print(a)
+print("Best School")
